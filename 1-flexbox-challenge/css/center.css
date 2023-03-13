@@ -1,0 +1,11 @@
+.parent {
+    height: 50vh;
+
+    /* add solution here */
+}
+
+.child {
+    background-color: darkolivegreen;
+    color: white;
+    padding: 1rem;
+}
