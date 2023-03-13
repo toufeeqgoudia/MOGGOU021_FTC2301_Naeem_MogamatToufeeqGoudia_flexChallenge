@@ -1,8 +1,7 @@
 ul {
     list-style: none;
     width: 75vw;
-
-    /* add solution here */
+    display: flex;
 }
 
 li {
@@ -11,5 +10,6 @@ li {
     background-color: rgb(245, 173, 41);
 
     /* add solution here.. */
-
+    height: 160px;
+    width: 160px;
 }
